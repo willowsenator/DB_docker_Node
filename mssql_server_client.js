@@ -13,7 +13,7 @@ const config = {
         encrypt: true,
         trustServerCertificate: true
     }
-}
+};
 
 async function query(sql){
     try {
